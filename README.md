@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashraj176
+- 👋 Hi, I’m Yash Raj
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C, C++ and Java
 - 💞️ I’m looking to collaborate on ...
