@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Raj
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C, C++ and Java
+- 🌱 I’m currently learning C, Python, Javascript and MERN stack Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
