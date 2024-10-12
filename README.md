@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashraj</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🌱 I’m currently learning **ReactJs and NextJs**
+- 🌱 I’m currently learning **ReactJs and NodeJs **
 
 - 📫 How to reach me **yashraj1761999@gmail.com**
 
